@@ -41,7 +41,7 @@
     {
         "class": "sidebar_label",
         // $base01:    #586e75         
-        "color": [0, 230, 172],
+        "color": [0, 153, 153],   // questo cambia il colore dei nomi dei files listati ma non selezionati
         "font.bold": true  // to set the names of the file as bold text
         // , "shadow_color": [250, 250, 250], "shadow_offset": [0, 0]
     },
